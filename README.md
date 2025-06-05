@@ -6,7 +6,7 @@ Este proyecto simula un escenario de negocio en el que una empresa digital eval�
 
 ## Objetivos
 
-- Evaluar el impacto de nuevas funcionalidades en el embudo de ventas.
+- Evaluar el impacto de nuevas funcionalidades de la página web.
 - Aplicar pruebas estadísticas para validar hipótesis.
 - Extraer insights accionables que respalden decisiones estratégicas.
 
@@ -25,9 +25,25 @@ Este proyecto simula un escenario de negocio en el que una empresa digital eval�
 
 ## Resultados clave
 
-- La hipótesis principal no mostró diferencias estadísticamente significativas en la conversión final.
-- Se identificaron diferencias en etapas intermedias que podrían orientar nuevas pruebas.
-- Se recomendó continuar el experimento segmentando usuarios por comportamiento.
+**Priorización de hipótesis con ICE y RICE**
+
+Se utilizó la metodología ICE para evaluar hipótesis con base en impacto y facilidad de implementación. Posteriormente, se aplicó RICE, incorporando el factor alcance, lo que reestructuró significativamente las prioridades y favoreció iniciativas con mayor potencial de impacto en un gran volumen de usuarios.
+
+🔹 **Recomendación:** Para una tienda online con alto tráfico, RICE es el enfoque más adecuado, ya que:
+- Maximiza el impacto total considerando la escala de usuarios.
+- Equilibra mejor el retorno de inversión.
+- Prioriza hipótesis con mayor potencial de crecimiento absoluto.
+
+📌 **Hipótesis prioritaria:** Add a subscription form to all the main pages.
+
+**Resultados del experimento A/B**
+
+Tras aplicar el filtrado de valores atípicos y analizar la conversión entre grupos, se tomaron las siguientes conclusiones:
+- El grupo B mostró una conversión estadísticamente superior al grupo A, con una diferencia relativa del 17%, incluso después de eliminar valores extremos.
+- El tamaño promedio de los pedidos en el grupo B resultó un 7% menor que en el grupo A, aunque esta diferencia no fue estadísticamente significativa.
+- El incremento en conversiones del grupo B no estuvo impulsado por pedidos más grandes, sino por una mayor cantidad de pedidos, lo que indica que el aumento en ingresos dependerá del volumen de conversiones y no del tamaño de los pedidos.
+
+📌 **Decisión final:** Se optó por parar la prueba y considerar al grupo B como el grupo ganador, validando su desempeño a través del análisis estadístico y visualizaciones.
 
 ## Sobre mí
 
