@@ -1,4 +1,4 @@
-# A/B Testing para Toma de Decisiones Estratégicas – Sprint 10 (Tripleten Bootcamp)
+# A/B Testing para Toma de Decisiones Estratégicas
 
 ## Descripción del proyecto
 
