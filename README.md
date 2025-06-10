@@ -50,3 +50,5 @@ Tras aplicar el filtrado de valores atípicos y analizar la conversión entre gr
 Proyecto realizado por **Andrea Mézquita**, egresada de Ingeniería Industrial y estudiante de análisis de datos en **Tripleten Bootcamp**. Mi enfoque es combinar la mejora de procesos con análisis de datos para generar soluciones estratégicas con impacto real.
 
 LinkedIn: https://www.linkedin.com/in/andrea-mézquita
+___
+Proyecto desarrollado como parte del Bootcamp de Análisis de Datos - TripleTen
